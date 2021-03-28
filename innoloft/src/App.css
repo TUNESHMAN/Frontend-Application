@@ -16,7 +16,7 @@
 }
 
 .dash-section {
-  height: calc(100vh - 40px);
+  /* height: calc(100vh - 10px); */
   display: flex;
   justify-content: space-between;
   background: #f8f5f1;
